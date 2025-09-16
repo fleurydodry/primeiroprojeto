@@ -1,0 +1,11 @@
+print("--MENU--")
+print("1- soma")
+print("2- subtração")
+print("3- multiplicação")
+print("4- divisão")
+print("5- par ou impar")
+print("6- numeros primos")
+print("7- fatorial")
+print("digite 'sair' para encerrar o programa")
+opção = input("escolha uma opção:")
+if opção == "sair":
